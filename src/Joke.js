@@ -1,8 +1,5 @@
-
 function Joke(){
-
-        return "this is a joke from webpack tutorial"
+    return "hello world!"
 }
-
 
 export default Joke;
